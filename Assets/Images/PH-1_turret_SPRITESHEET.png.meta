@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: c0144d3c394af4de7aea135e6dc181f6
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PH-1_turret_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 839
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 839
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 839
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 839
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 839
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 654
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 654
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 654
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 654
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 654
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 469
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 469
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 469
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 469
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 469
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 284
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 284
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 284
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 284
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 284
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 99
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 99
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PH-1_turret_SPRITESHEET_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 99
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
